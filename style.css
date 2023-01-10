@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 40px 40px 40px;
+    background-color: #eb7272;
+    overflow: scroll;
+}
+.overall {
+    align-items: center;
+    justify-content: center;
+    background-color: #ebe2e2;
+    width: 700px;
+    height: 600px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px 5px;
+    position: relative;
+}
+.select {
+    border: 2px solid black;
+    background-color: #f1f1f1;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}

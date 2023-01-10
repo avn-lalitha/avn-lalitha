@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    background-color: #f1f1f1;
+    align-items: center;
+    justify-content: center;
+}
+table,th,td {
+    border: 1px solid black;
+    width: 1100px;
+    background-color: lightblue;
+    empty-cells: hide;
+}
+td:empty {
+    display: none;
+    border-style: none;
+}
+.classes {
+    border: 2px solid black;
+    width: 1400px;
+    height: 1400px;
+    overflow: scroll;
+}
+.classes thead th {
+    position: sticky;
+    top: 0;
+}

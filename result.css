@@ -1,0 +1,142 @@
+body {
+    align-items: center;
+    justify-content: center;
+    padding: 20px 20px 20px 20px;
+    background-color: #f1f1f1;
+}
+.sems {
+    background-color: yellow;
+    border-radius: 15px;
+    border-collapse: collapse;
+    text-align: center;
+    width: 350px;
+    height: 118px;
+}
+td {
+    background-color: #f1f1f1;
+    border-radius: 15px;
+    border-collapse: collapse;
+    text-align: center;
+    width: 250px;
+    height: 118px;
+}
+.container {
+    padding: 1px;
+    background-color: white;
+    width: 1470px;
+    height: 650px;
+    border: 2px solid black;
+}
+.logo {
+    border-radius: 15px;
+    padding: 15px 150px;
+}
+.info {
+    border-radius: 15px;
+    border: 2px solid black;
+    width: 1466px;
+    height: 500px;
+    position: relative;
+}
+.details {
+    position: absolute;
+    border-radius: 15px;
+    border: 2px solid black;
+    height: 240px;
+    width: 765px;
+    top: 2px;
+    left: 3px;
+}
+.sem {
+    position: absolute;
+    border-radius: 15px;
+    border: 2px solid black;
+    height: 240px;
+    width: 680px;
+    top: 2px;
+    left: 53%;
+    overflow: scroll;
+}
+.sgpa {
+    position: absolute;
+    border-radius: 15px;
+    border: 2px solid black;
+    height: 242px;
+    width: 765px;
+    top: 250px;
+    left: 3px;
+    overflow: scroll;
+}
+.overall {
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    border-radius: 15px;
+    border: 2px solid black;
+    height: 242px;
+    width: 680px;
+    top: 250px;
+    left: 53%;
+}
+.student-heading {
+    position: absolute;
+    left: 5px;
+}
+.rollno {
+    font-weight: normal;
+    position: absolute;
+    top: 60px;
+    left: 5px;
+}
+.rn-data {
+    position: absolute;
+    top: 66px;
+    left: 190px;
+}
+.namelabel {
+    font-weight: normal;
+    position: absolute;
+    top: 100px;
+    left: 5px;
+}
+.studentname {
+    position: absolute;
+    top: 105px;
+    left: 190px;
+}
+a {
+    text-decoration: none;
+}
+a:link, a:visited {
+    color: black;
+}
+a:hover {
+    box-shadow: inset 100px 0 0 0 #54b3d6;
+    color: blue;
+}
+.cgpalabel {
+    position: absolute;
+    top: 65px;
+    left: 155px;
+    font-size: 40px;
+    font-weight: normal;
+}
+.overallcgpa {
+    position: absolute;
+    top: 65px;
+    left: 430px;
+    font-size: 40px;
+}
+.overallpercentage {
+    position: absolute;
+    top: 115px;
+    left: 430px;
+    font-size: 40px;
+}
+.percentage {
+    font-weight: normal;
+    position: absolute;
+    top: 115px;
+    left: 150px;
+    font-size: 40px;
+}
