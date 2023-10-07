@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **asrithakowtarapu@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/ASRITHA/OneDrive/Documents/AsrithaKowtharapu_InternshalaResume%20(1).pdf](file:///C:/Users/ASRITHA/OneDrive/Documents/AsrithaKowtharapu_InternshalaResume%20(1).pdf)
+- 📄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
